@@ -10,4 +10,10 @@ public class CustomerModule
 	{
 		Reporter.log("hello", true);
 	}
+	@Test
+	public void testModifyCustomer()
+	{
+		Reporter.log("hello", true);
+	}
+	
 }
